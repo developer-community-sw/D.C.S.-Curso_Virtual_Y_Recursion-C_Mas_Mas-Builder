@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/29 22:38:24.000.410,=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/09/29 22:38:25.000.581,=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/09/30 06:32:50.000.772,=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/09/30 06:32:50.000.091,=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/09/30 07:05:26.000.784,=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/09/30 07:05:27.000.198,=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/09/30 07:11:05.420,=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/09/30 07:11:05.521,=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/09/30 07:11:21.083,C:\Users\jhasm\Documents\DEVELOPER\D.C.S.-Curso_Virtual_Y_Recursion-C_Mas_Mas-Builder\Unit1.dfm=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/09/30 07:11:21.083,C:\Users\jhasm\Documents\DEVELOPER\D.C.S.-Curso_Virtual_Y_Recursion-C_Mas_Mas-Builder\Unit1.cpp=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/09/30 07:11:21.083,C:\Users\jhasm\Documents\DEVELOPER\D.C.S.-Curso_Virtual_Y_Recursion-C_Mas_Mas-Builder\Unit1.h=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020/09/30 07:12:58.419,C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\CursoC++PCH1.h=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/09/30 07:12:58.437,C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\CursoC++.cbproj=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2020/09/30 07:13:33.368,C:\Users\jhasm\Documents\DEVELOPER\D.C.S.-Curso_Virtual_Y_Recursion-C_Mas_Mas-Builder\CursoC++PCH1.h=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\CursoC++PCH1.h</Transaction>
+    <Transaction>2020/09/30 07:13:40.226,C:\Users\jhasm\Documents\DEVELOPER\D.C.S.-Curso_Virtual_Y_Recursion-C_Mas_Mas-Builder\CursoC++.cbproj=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\CursoC++.cbproj</Transaction>
+    <Transaction>2020/09/30 07:14:07.986,C:\Users\jhasm\Documents\DEVELOPER\D.C.S.-Curso_Virtual_Y_Recursion-C_Mas_Mas-Builder\CodigoCurso.cpp=C:\Users\jhasm\Documents\DEVELOPER\D.C.S.-Curso_Virtual_Y_Recursion-C_Mas_Mas-Builder\Unit1.cpp</Transaction>
+    <Transaction>2020/09/30 07:14:07.986,C:\Users\jhasm\Documents\DEVELOPER\D.C.S.-Curso_Virtual_Y_Recursion-C_Mas_Mas-Builder\CodigoCurso.dfm=C:\Users\jhasm\Documents\DEVELOPER\D.C.S.-Curso_Virtual_Y_Recursion-C_Mas_Mas-Builder\Unit1.dfm</Transaction>
+    <Transaction>2020/09/30 07:14:07.986,C:\Users\jhasm\Documents\DEVELOPER\D.C.S.-Curso_Virtual_Y_Recursion-C_Mas_Mas-Builder\CodigoCurso.h=C:\Users\jhasm\Documents\DEVELOPER\D.C.S.-Curso_Virtual_Y_Recursion-C_Mas_Mas-Builder\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>
